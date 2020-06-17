@@ -39,7 +39,7 @@ The Linux instance that runs Terraform Enterprise needs to allow several kinds o
 * **23005**: TFE Health Check point
 * **23020**: Nomad (built-in) scheduler (for Sentinel runs)
 * **32774-32776**: ReplicatedUI internal StatsD ports mapped then to standard (see above 2003⁄2004 and 8125 )
-* **32846**: TFE Admin Console whivh is is ReplicatedUI service
+* **32846**: TFE Admin Console which is is ReplicatedUI service
 
 ## Egress
 
