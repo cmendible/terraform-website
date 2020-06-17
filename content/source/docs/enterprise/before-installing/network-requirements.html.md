@@ -18,7 +18,7 @@ The Linux instance that runs Terraform Enterprise needs to allow several kinds o
 * **9870-9880 (inclusive)**: For internal communication on the host and its subnet; not publicly accessible.
 * **23000-23100 (inclusive)**: For internal communication on the host and its subnet; not publicly accessible.
 
-### Higher ports and their function in details
+### Higher ports and their functions
 
 * **2003**: Graphite (Carbon) feeding port (monitoring, metrics)
 * **2004**:	Graphite (Carbon) feeding port (monitoring, metrics)
