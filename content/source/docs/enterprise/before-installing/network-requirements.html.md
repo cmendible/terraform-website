@@ -9,7 +9,7 @@ The Linux instance that runs Terraform Enterprise needs to allow several kinds o
 
 ## Ingress
 
-### General list of the EXPOSED ports on the instance :
+### Exposed ports on the instance:
 
 * **22**: To access the instance via SSH from your computer. SSH access to the instance is required for administration and debugging.
 * **80**: To access the Terraform Enterprise application via HTTP. This port redirects to port 443 for HTTPS.
